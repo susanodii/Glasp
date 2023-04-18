@@ -22,7 +22,7 @@ In this user guide, you will learn what Glasp is, how to install it on your brow
 <!-- Glaps is a social web highlighter where you can highlight and organise anything that appeals to you on webpages or online PDF. You can also use it to generate  -->
 Glasp is a free browser extension that enhances your online reading experience. This powerful extension helps you to highlight important text on any webpage  or online PDF with colored highlighting options. These highlighted text are automatically organised and saved on Glasp home page. Your highlighted text can be tagged, linked, searched for and even shared on other platforms such as twitter, slack and the rest of them.
 
-After you have highlighted or taken notes, the highlighted text and note appears on the sidebar of the web and when you click on your highlighted text, it takes you to the place you highlighted on the web page. Glaps helps you keep or retain important information and saves your time. It has user-friendly interface and meets all your hightlighting needs.
+After you have highlighted or taken notes, the highlighted text and note appears on the sidebar of the web and when you click on your highlighted text, it takes you to the place you highlighted on the web page. Glaps helps you keep or retain important information for future use and saves your time. It has user-friendly interface and meets all your hightlighting needs.
 
 Glasp has a youtube summary feature that uses artifical intelligence (AI) to generate youtube video transcript. You can highlight and save text or even share on other platforms.
 
