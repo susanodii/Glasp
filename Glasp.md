@@ -75,7 +75,7 @@ Below are steps on how to install Glasps extension on your browser
    ![](images/note_taken.PNG)
    
 
-6. All the highligted text and notes can befound on the page right-side bar of your web page
+6. All the highligted text and notes can be found on the page right-side bar of your web page
 
 ![](images/all_highlights.png)
 
@@ -86,6 +86,10 @@ Below are steps on how to install Glasps extension on your browser
 
 ![](images/threeDot_icon_drop_down.png)
 
+8. To add tags to your highlights, click on the tag icon and tag.
+   
+   ![](images/tag_icon.png)
+![](images/added_tag.png)
 
 
 
@@ -104,4 +108,18 @@ To share highlighted texts or notes on the other plateforms like Twitter, Linked
    
    ![](images/share_on_social.png)
 
+
+To share your hightlight with beautiful image :
+
+1. Hover over your highlights on the right-side of your web page, a three-dot icon will immediatly pop up, click on it.
    
+
+![](images/threeDot_icon2.png)
+
+2. Click on "Create Hightlight Image"
+   
+   ![](image/../images/create_highlight_image.png)
+
+3. Your highlight image pops out. You can select any background color of your choice, download and also share on social media.
+   
+   ![](images/image_generated.PNG)
