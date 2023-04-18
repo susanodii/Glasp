@@ -43,11 +43,45 @@ Below are steps on how to install Glasps extension on your browser
 ![](images/google_account.png)
 ![](images/glaspHome.png)
 
+
+### HOW TO HIGHLIGHT TEXT ON WEB PAGES USING GLASP
+1. Go to the web page you want to read.
+   
+   ![](images/webPage.PNG)
+
+2. To highlight, select any text of your choice.
+
+![](images/highlightText.PNG)
+
+3. Select, any color you want to make highlight with.
+   
+   ![](images/select_highlight_color.png)
+   
+   ![](images/highlighted.png)
+
+   ![](images/highlighted2.PNG)
+
+  4. To take note, select text and click on the write icon, this provides a section for you to take note.
+   
+   ![](images/note_icon.png)
+   
+  5. Next, your texts gets hightlighted and a note box on the sidebar where you can take your note.
+   
+   ![](images/note.PNG)
+
+
+   ![](images/note_taken.PNG)
    
 
+6. All the highligted text and notes can befound on the page right-side bar of your web page
+
+![](images/all_highlights.png)
 
 
+7. To share your notes or highlights on twitter, add a note, create a highlight image, copy highlight embed code or delete highlight, hover over your highlights on the right-side of your web page, a three-dot icon will immediatly pop up, click on it.
 
+![](images/threeDot_icon2.png)
 
+![](images/threeDot_icon_drop_down.png)
 
 
