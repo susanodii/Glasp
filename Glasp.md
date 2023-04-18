@@ -4,7 +4,9 @@
 - Introduction
 -  What is Glaps
 -  How to install Glasp extension
+
 -  How to highlight text on web pages using Glasp
+-  How to share highlighted texts on Twitter, Linkedln, Facebook and Email.
 - How to highlight and take notes on online PDF using Glasp
 -  How to highlight and take notes on YouTube using Glasp
 - Conclution
@@ -85,3 +87,21 @@ Below are steps on how to install Glasps extension on your browser
 ![](images/threeDot_icon_drop_down.png)
 
 
+
+
+
+### HOW TO SHARE HIGHLIGHTED TEXTS ON TWITTER, LINKEDLN, FACEBOOK AND EMAIL
+
+
+To share highlighted texts or notes on the other plateforms like Twitter, Linkedln, Facebook and Email :
+
+1. Click on the icon located at the top.
+   
+   ![](images/share_icon.png)
+
+   
+2. Next, a drop-down that shows other plataforms you want to share your highlighted text with pop up. Select the the plateform you want from there. If you want to share link, click on "COPY LINK" and share on other plateforms.
+   
+   ![](images/share_on_social.png)
+
+   
