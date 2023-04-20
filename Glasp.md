@@ -108,7 +108,31 @@ Your home page will look like the image below
 
 ![](images/homePage.PNG)
 
-<!-- ### FUNCTION OF DIFFRENT FEATURES ON GLASP HOME PAGE -->
+ ### FUNCTION OF DIFFRENT FEATURES ON GLASP HOME PAGE 
+
+ 1. Your Topics let you choose topics that interest you, examples of such topics are : Career, Productivity, UX, Life Lessons and the rest of them
+ 2. Recommended Topics shows suggested topics for you to follow.
+ 3. Who to follow suggest people you can follow
+ 4. Following allows you to see the highlights and notes of people you are following.
+ 5. Topics shows contents related to your interest.
+ 6. Popular shows contents that people highlighted more.
+ 7. Community page shows top highlights and comments.
+ 8. Highlights shows the number of web pages you have visite, the number of highlights and notes you took,favoright highlights, saved highlights and videos. To see your highlight, click on "My Highlight" located at the top of your home page, this takes you to your highlights. 
+
+![](images/my_highligh.png)
+
+Your highlight page should look like the image below
+
+![](images/highlight_page.PNG)
+
+9. The explore page let you find contents that interest you from the community. To navigate to the explore page, click on "Explore" located at the top of the home page, this takes you to the explore page.
+    
+    ![](images/explore_page.png)
+
+Your explore page will look like the one below.
+![](images/explore.PNG) 
+
+
 
 ### HOW TO SHARE HIGHLIGHTED TEXTS ON TWITTER, LINKEDLN, FACEBOOK AND EMAIL
 
