@@ -12,7 +12,7 @@
 - How to share highlighted texts on Twitter, Linkedln, Facebook and Email.
 
 - How to highlight and take notes on online PDF using Glasp
-- How to highlight and take notes on YouTube using Glasp
+- How to highlight video on YouTube using Glasp
 - Conclution
 
 ### INTRODUCTION
@@ -161,3 +161,21 @@ To share your hightlight with beautiful image :
 3. Your highlight image pops out. You can select any background color of your choice, download and also share on social media.
 
    ![](images/image_generated.PNG)
+
+How to highlight and take notes on online PDF using Glasp
+
+
+### HOW TO HIGHTLIGHT VIDEO ON YOUTUBE USING GLASP
+1. Open any youtube video of your choice.
+![](images/youtube_image.PNG)
+2. Click on the arrow-down icon located at the top-left. 
+![](images/youtube_transcrpit_icon.png)
+
+On clicking,you will see all the transcript and the time done.
+![](images/transcript.png)
+
+3.when you select any text that ineterest you, you will see a pop-up with diferent hightlighting colors, click on any of the color.
+![](images/vedio_hightlight_color.png)
+
+![](images/highlight_youtube.png)
+
