@@ -14,6 +14,7 @@
 - How to highlight video on YouTube using Glasp
 - Frequently asked questions
  -  Glasp alternatives
+ -  Limitations of Glasp
 - Conclution
 
 ### INTRODUCTION
@@ -252,7 +253,10 @@ To copy and paste all the video transcript to a note taking app :
 Linear also uses AI to generate answers to questions asked on the web.
 
    
-
+### LIMITATIONS OF GLASP
+1. Glasp can not be used mobile devices
+2. Some video contents and PDF'S can not be accessed by Glasp.
+    
 
 ### CONCLUSION
 
