@@ -13,7 +13,7 @@
 
 - How to highlight video on YouTube using Glasp
 - Frequently asked questions
-<!-- - Alternatives to Glasp -->
+ -  Glasp alternatives
 - Conclution
 
 ### INTRODUCTION
@@ -243,9 +243,15 @@ To copy and paste all the video transcript to a note taking app :
   yes, you can do this by copying and pasting of the generated summary. You can also share link to the summary generated.
 
 
-  <!-- ### GLASP ALTERNATIVES
+   ###  GLASP ALTERNATIVES
   1. Pocket : It is a tool used to save  articles and videos for later use. Saved articles and videos are accessible on phone, tablet or computer.
-2.  -->
+  2. Diigo : It is used for bookmarking and annotation on a web page. It  allows you to highlight and add comments on a web page in an organised way.
+  3. Hypothesis :It is an open source software used for annotating web pages, PDF's and other online contents collaboratively. This tool allows users to highlight, tag and add comments on what they read online and highlights can be viewed, analized and replied to by others in the group.
+
+   4. Linear : It is a tool used for highlighting articles, YouTube, images and PDF's. Your highlights are stored for future use.
+Linear also uses AI to generate answers to questions asked on the web.
+
+   
 
 
 ### CONCLUSION
