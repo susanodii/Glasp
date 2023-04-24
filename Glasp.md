@@ -260,8 +260,9 @@ Linear also uses AI to generate answers to questions asked on the web.
 
 ### CONCLUSION
 
-<!-- Glaps is a social web highlighter where you can highlight and organise anything that appeals to you on webpages or online PDF. You can also use it to generate  -->
-  
+Glasp is a powerful tool that can help improve your reading and learning experience. It ia a social highlighter for highlighting and taking notes on web pages, PDF's , videos and other online contents. Glasps allows you to share these highlights and notes on other platforms like Twitter. You can also collabotate with people on Glasp. All highlights and notes are securely saved for future use or reference. Glasp helps you to organise anything you read on the internet.
 
+
+Glasp is a great tool for students, reseachers and anybody who has passion for learning and growing.
 
 
