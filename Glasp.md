@@ -46,21 +46,43 @@ Glasp is an Artificial intelligence technology (AI). It's features are constantl
 Below are steps on how to install Glasp on your browser:
 
 <!-- 1.  Choose any browser of your choice, it can be Google Chrome, Safari, Microsoft Edge, Explorer Brave and so on. -->
-1. Go to your Google Chroom browser
-2.  On you search bar, type "glasp.co" and click on enter keyboard on your device. This will take you the Glasp webpage. Or click on https://glasp.co/ , this will take you to Glasp webpage.
+1. Open Google Chrome browser on your computer
+2. Click on https://glasp.co/ .  This will take you to Glasp official website.
 
-![](images/search.png)
+<!-- ![](images/search.png) -->
 
-3.  Click on "Sign-up (beta).
+3.  Click on "Install on Chrome".
 
-![](images/signUP.png)
+<!-- ![](images/signUP.png) -->
+![](images/install_on_chrome.png)
 
-4. Click on "continue with Google" and it takes you to Glasp home page.
+4. You will be taken to Chrome web store. 
+![](images/add_to_chrome.png)
+  Click on the "Add to Chrome".
+<!-- ![](images/google_account.png) -->
+<!-- ![](images/glaspHome.png) -->
 
-![](images/google_account.png)
-![](images/glaspHome.png)
+5. Next, a pop up will appear, click on "Add extension".
 
-5. After installation, pin the extention to your browser tool bar for easy accesss
+![](images/add_extention.png)
+
+ Wait for the installation which will take few seconds. After installation, you will be taken to your Glasp dashboard.
+ ![](images/welcome_to_glasp.png)
+
+  6. For easy access, pin the extiontion to your Chrome tool bar. To do this:
+- Click on your Chrome extention icon.
+
+
+![](images/extention_icon.png)
+
+- A drop - down with different extentions will pop up. Click on the pin icon beside you Glasp extention.
+  
+  ![](images/pin_icon.png)
+
+After clicking on the icon, Glasp extention will appear on your browser tool bar for easy access.
+
+![](images/glasp_icon.png)
+
 ### HOW TO HIGHLIGHT TEXT ON WEB PAGES USING GLASP
 
 1. Go to the web page you want to read and highlight.
@@ -101,6 +123,7 @@ Below are steps on how to install Glasp on your browser:
 
 8. To add tags to your highlights, click on the tag icon and tag.
    ![](images/tag_icon.png)
+
    ![](images/added_tag.png)
 
 9. To navigate to the home page, click on the home icon located at the right side of your browser side bar. You will be taken to your profile page.
@@ -124,15 +147,19 @@ Your home page will look like the image below
 3.  **Who to follow** suggest people you can follow. You can also search for people to follow on the search bar. When you follow someone, you will be able to see all their highlights and notes.
 
 ![](images/recommended.png)
+
 4.  **Following allows** you to see the highlights and notes of people you are following.You can follow people with like minds, this allows you to see all their highlights.
 
 ![](images/following.png)
+
 5.  **Topics** shows contents related to your interest.It shows topics you can follow. You are free to add or remove topics.
 
 ![](images/Topics.png)
+
 6.  **Popular** shows contents that people highlighted more. Contents that have more highlights, notes or saved are displayed on "Popular".
 
 ![](images/popular.png)
+
 7.  **Community page** shows top highlights and comments.
 
 ![](images/community.png)
@@ -174,7 +201,8 @@ To share hightlight with beautiful image :
 
 2. Click on "Create Hightlight Image"
 
-   ![](image/../images/create_highlight_image.png)
+   ![](image/../images/
+   create_highlight_image.png)
 
 3. Your highlight image pops out. You can select any background color of your choice, download and also share on social media.
 
