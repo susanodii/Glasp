@@ -3,13 +3,13 @@
 ## Table Of Contents
 
 - Introduction
-- What is Glaps
-- Glaps Features
+- What is Glasp
+- Glasp Features
 - How to install Glasp extension
 
 - How to highlight text on web pages using Glasp
 - Function of  different features on Glasp home page
-- How to share highlighted texts on Twitter, Linkedln, Facebook and Email.
+- How to share highlighted texts on Twitter, Linkedln, Facebook and Email
 
 - How to highlight video on YouTube using Glasp
 - Frequently asked questions
@@ -39,7 +39,7 @@ Glasp is an Artificial intelligence technology (AI). It's features are constantl
 1. Summarization : Glasp automatically generates the summary of Youtube video and displays them in text format on a different panel next to the video.
 2. Supports different languages : Glasp supports different languages such as English, French, German, Italian, Portuguese and Spanish.
 3. Highlighting : You can highlight key points of a video or online articles, PDF and more.
-4. Sharing : you can share highlighted texts on other plateforms such as Twitter, Facebook, Instagram, Linkeln and Email.
+4. Sharing : you can share highlighted texts on other platforms such as Twitter, Facebook, Instagram, Linkeln and Email.
 
 ### HOW TO INSTALL GLASP EXTENSION
 
@@ -69,7 +69,7 @@ Below are steps on how to install Glasp on your browser:
  Wait for the installation which will take few seconds. After installation, you will be taken to your Glasp dashboard.
  ![](images/welcome_to_glasp.png)
 
-  6. For easy access, pin the extiontion to your Chrome tool bar. To do this:
+  6. For easy access, pin the extention to your Chrome tool bar. To do this:
 - Click on your Chrome extention icon.
 
 
@@ -121,7 +121,7 @@ After clicking on the icon, Glasp extention will appear on your browser tool bar
 
 ![](images/threeDot_icon_drop_down.png)
 
-8. To add tags to your highlights, click on the tag icon and tag.
+8. To add tags to your highlights, click on the tag icon aand add your tag text.
    ![](images/tag_icon.png)
 
    ![](images/added_tag.png)
@@ -134,9 +134,9 @@ Your home page will look like the image below
 
 ![](images/homePage.PNG)
 
-### FUNCTION OF DIFFRENT FEATURES ON GLASP HOME PAGE
+### FUNCTION OF DIFFERENT FEATURES ON GLASP HOME PAGE
 
-1.  **Your Topics** let you choose topics that interest you, examples of such topics are : Career, Productivity, UX, Life Lessons and the rest of them
+1.  **Your Topics** let you choose topics that interest you, examples of such topics are : Career, Productivity, UX, Life Lessons and so on.
 
 ![](images/your_topics.png)
 
@@ -156,7 +156,7 @@ Your home page will look like the image below
 
 ![](images/Topics.png)
 
-6.  **Popular** shows contents that people highlighted more. Contents that have more highlights, notes or saved are displayed on "Popular".
+6.  **Popular** shows contents that people highlighted more. Contents that have more highlights are displayed on "Popular".
 
 ![](images/popular.png)
 
@@ -164,11 +164,11 @@ Your home page will look like the image below
 
 ![](images/community.png)
 
-8. **My Highlights** shows your Glasp profile and highlighted texts and the number of web pages you have visited. This section also shows ,favoright highlights, saved highlights and videos. To see your highlight, click on "My Highlight" located at the top of your home page, this takes you to your highlights.
+8. **My Highlights** shows your Glasp profile, highlighted texts and the number of web pages you have visited. This section also shows,favourite highlights, saved highlights and videos. To see your highlight, click on "My Highlight" located at the top of your home page, this takes you to your highlights.
 
 ![](images/my_highligh.png)
 
-Your highlight page should look like the image below
+Your highlight page should look like the image below.
 
 ![](images/highlight_page.PNG)
 
@@ -195,7 +195,7 @@ On the web page you took your highlights and notes :
 
 To share hightlight with beautiful image :
 
-1. Hover over your highlights on the right-side of your web page, a three-dot icon will immediatly pop up, click on it.
+1. Hover over your highlights on the right-side of your web page, a three-dot icon will immediately pop up, click on it.
 
 ![](images/threeDot_icon2.png)
 
@@ -204,7 +204,7 @@ To share hightlight with beautiful image :
    ![](image/../images/
    create_highlight_image.png)
 
-3. Your highlight image pops out. You can select any background color of your choice, download and also share on social media.
+3. Your highlight image will pop up. You can select any background color of your choice, download and also share on social media.
 
    ![](images/image_generated.PNG)
 
@@ -220,7 +220,7 @@ When you click on the icon,you will see all the transcript and the time done.
 
 ![](images/transcript.png)
 
-3. when you select any text that ineterest you, you will see a pop-up with diferent hightlighting colors, click on any of the color.
+3.Select any text that interest you. After selecting, you will see a pop-up with different hightlighting colors, click on any of the color.
    ![](images/vedio_hightlight_color.png)
 
 ![](images/highlight_youtube.png)
@@ -232,11 +232,11 @@ When you click on the icon,you will see all the transcript and the time done.
 
 To copy and paste all the video transcript to a note taking app :
 
-- click on the copy icon located at top right
+- Click on the copy icon located at top right.
 
   ![](images/copy_transcript.png)
 
-- paste on any note taking app of your choice
+- Paste on any note taking app of your choice
 
 ![](images/notion.png)
 
@@ -248,7 +248,7 @@ To copy and paste all the video transcript to a note taking app :
 
   **How does Glasp summerize a video**
 
-  Glasp summarizes a video using artificial intelligence (AI) algorithms. This AI search for the key points in the visual and audio content of a video and then, generate and converts these keys points to text.
+  Glasp summarizes a video using artificial intelligence (AI) algorithms. This AI search for the key points in the visual and audio content of a video and then, generateS and converts these keys points to text.
 
   **Is it possible to customize the summary generated by Glasp**
   
@@ -274,7 +274,7 @@ To copy and paste all the video transcript to a note taking app :
 
    ###  GLASP ALTERNATIVES
   1. Pocket : It is a tool used to save  articles and videos for later use. Saved articles and videos are accessible on phone, tablet or computer.
-  2. Diigo : It is used for bookmarking and annotation on a web page. It  allows you to highlight and add comments on a web page in an organised way.
+  2. Diigo : It is used for bookmarking and annotation on a web page. It  allows you to highlight and add comments on a web page in an organized way.
   3. Hypothesis :It is an open source software used for annotating web pages, PDF's and other online contents collaboratively. This tool allows users to highlight, tag and add comments on what they read online and highlights can be viewed, analized and replied to by others in the group.
 
    4. Linear : It is a tool used for highlighting articles, YouTube, images and PDF's. Your highlights are stored for future use.
@@ -282,15 +282,15 @@ Linear also uses AI to generate answers to questions asked on the web.
 
    
 ### LIMITATIONS OF GLASP
-1. Glasp can not be used mobile devices
+1. Glasp can not be used on mobile devices
 2. Some video contents and PDF'S can not be accessed by Glasp.
     
 
 ### CONCLUSION
 
-Glasp is a powerful tool that can help improve your reading and learning experience. It ia a social highlighter for highlighting and taking notes on web pages, PDF's , videos and other online contents. Glasps allows you to share these highlights and notes on other platforms like Twitter. You can also collabotate with people on Glasp. All highlights and notes are securely saved for future use or reference. Glasp helps you to organise anything you read on the internet.
+Glasp is a powerful tool that can help improve your reading and learning experience. It is a social highlighter for highlighting and taking notes on web pages, PDF's , videos and other online contents. Glasp allows you to share these highlights and notes on other platforms like Twitter. You can also collaborate with people on Glasp. All highlights and notes are securely saved for future use or reference. Glasp helps you to organise anything you read on the internet.
 
 
-Glasp is a great tool for students, reseachers and anybody who has passion for learning and growing.
+Glasp is a great tool for students, reseachers, developers, designers and anybody who has passion for learning and growing.
 
 
