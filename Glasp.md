@@ -1,5 +1,7 @@
 # HOW TO HIGHTLIGHT AND TAKE NOTES ON THE INTERNET USING GLASP
 
+ ![](images/glasp_logo.png)
+
 ## Table Of Contents
 
 - Introduction
