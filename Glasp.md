@@ -58,9 +58,9 @@ Below are steps on how to install Glasp on your browser:
 <!-- ![](images/signUP.png) -->
 ![](images/install_on_chrome.png)
 
-4. You will be taken to Chrome web store. 
+4. You will be taken to Chrome web store.  Click on the "Add to Chrome".
 ![](images/add_to_chrome.png)
-  Click on the "Add to Chrome".
+ 
 <!-- ![](images/google_account.png) -->
 <!-- ![](images/glaspHome.png) -->
 
@@ -75,7 +75,7 @@ Below are steps on how to install Glasp on your browser:
 - Click on your Chrome extention icon.
 
 
-![](images/extention_icon.png)
+![](images/../extention_icon2.png)
 
 - A drop - down with different extentions will pop up. Click on the pin icon beside you Glasp extention.
   
@@ -93,25 +93,25 @@ After clicking on the icon, Glasp extention will appear on your browser tool bar
 
 2. To highlight, select any text of your choice.
 
-![](images/highlightText.PNG)
+![](images/hilightText2.png)
 
 3. Select, any color you want to make highlight with.
 
-   ![](images/select_highlight_color.png)
+   ![](images/select_highlight_color2.png)
 
-   ![](images/highlighted.png)
+   ![](images/highlighted3.PNG)
 
-   ![](images/highlighted2.PNG)
+   <!-- ![](images/highlighted2.PNG) -->
 
 4. To take note, select text and click on the write icon, this provides a section for you to take note.
 
-![](images/note_icon.png)
+![](images/note_icon2.png)
 
-1. Next, your texts gets hightlighted and a note box on the browser sidebar will appear.
+  Your texts gets hightlighted and a note box on the browser sidebar will appear.
 
-![](images/note.PNG)
+![](images/note2.png)
 
-![](images/note_taken.PNG)
+![](images/note_taken2.png)
 
 6. All the highligted text and notes can be found on the page right-side bar of your web page
 
@@ -154,7 +154,7 @@ Your home page will look like the image below
 
 ![](images/following.png)
 
-5.  **Topics** shows contents related to your interest.It shows topics you can follow. You are free to add or remove topics.
+5.  **Topics** shows contents related to your interest. It shows topics you can follow. You are free to add or remove topics.
 
 ![](images/Topics.png)
 
@@ -179,6 +179,7 @@ Your highlight page should look like the image below.
    ![](images/explore_page.png)
 
 Your explore page will look like the one below.
+
 ![](images/explore.PNG)
 
 ### HOW TO SHARE HIGHLIGHTED TEXTS ON TWITTER, LINKEDLN, FACEBOOK AND EMAIL
@@ -187,7 +188,7 @@ Your explore page will look like the one below.
 
 On the web page you took your highlights and notes :
 
-1. Click on the icon located at the top of the browser side-bar.
+1. Click on the share highlight icon located at the top of the browser side-bar.
 
    ![](images/share_icon.png)
 
@@ -195,7 +196,7 @@ On the web page you took your highlights and notes :
 
    ![](images/share_on_social.png)
 
-To share hightlight with beautiful image :
+**To share hightlight with beautiful image :**
 
 1. Hover over your highlights on the right-side of your web page, a three-dot icon will immediately pop up, click on it.
 
@@ -203,8 +204,7 @@ To share hightlight with beautiful image :
 
 2. Click on "Create Hightlight Image"
 
-   ![](image/../images/
-   create_highlight_image.png)
+   ![](images/create_highlight_image.png)
 
 3. Your highlight image will pop up. You can select any background color of your choice, download and also share on social media.
 
@@ -214,25 +214,30 @@ To share hightlight with beautiful image :
 ### HOW TO HIGHTLIGHT VIDEO ON YOUTUBE USING GLASP
 
 1. Open any youtube video of your choice.
+   
    ![](images/youtube_image.PNG)
+
 2. Click on the arrow-down icon located at the top-left.
+   
    ![](images/youtube_transcrpit_icon.png)
 
 When you click on the icon,you will see all the transcript and the time done.
 
 ![](images/transcript.png)
 
-3.Select any text that interest you. After selecting, you will see a pop-up with different hightlighting colors, click on any of the color.
+3. Select any text that interests you. After selecting, you will see a pop-up with different hightlighting colors, click on any of the color.
+   
    ![](images/vedio_hightlight_color.png)
 
 ![](images/highlight_youtube.png)
 
 4. To see the texts you highlighted, click on Glasp icon located at the top-right.
+   
    ![](images/glasp_icon.png)
 
 ![](images/accessTo_all_highlited.png)
 
-To copy and paste all the video transcript to a note taking app :
+**To copy and paste all the video transcript highlights to a note taking app :**
 
 - Click on the copy icon located at top right.
 
@@ -250,13 +255,13 @@ To copy and paste all the video transcript to a note taking app :
 
   **How does Glasp summerize a video**
 
-  Glasp summarizes a video using artificial intelligence (AI) algorithms. This AI search for the key points in the visual and audio content of a video and then, generateS and converts these keys points to text.
+  Glasp summarizes a video using artificial intelligence (AI) algorithms. This AI search for the key points in the visual and audio content of a video and then generates and converts these keys points to text.
 
   **Is it possible to customize the summary generated by Glasp**
   
-  yes it is, you can do this by selecting the points you want to customize, copy the generated texts  and finally, customize it in your text editor.
+  Yes it is possible. You can do this by selecting the points you want to customize, copy the generated texts  and finally, customize it in your text editor.
 
-  **Does Glasp work with all YouTube videos?**
+  **Does Glasp work with all YouTube videos ?**
 
   No, it does not due to the fact that some videos are not compatible with the tool. Furthermore, Glasp may not be able to generate accurate summary for videos with poor audio and video quality.  
 
@@ -271,13 +276,13 @@ To copy and paste all the video transcript to a note taking app :
   **Can I share the summary generated by Glasp?**
 
 
-  yes, you can do this by copying and pasting of the generated summary. You can also share link to the summary generated.
+  Yes, you can do this by copying and pasting  the generated summary. You can also share link to the summary generated.
 
 
    ###  GLASP ALTERNATIVES
   1. Pocket : It is a tool used to save  articles and videos for later use. Saved articles and videos are accessible on phone, tablet or computer.
   2. Diigo : It is used for bookmarking and annotation on a web page. It  allows you to highlight and add comments on a web page in an organized way.
-  3. Hypothesis :It is an open source software used for annotating web pages, PDF's and other online contents collaboratively. This tool allows users to highlight, tag and add comments on what they read online and highlights can be viewed, analized and replied to by others in the group.
+  3. Hypothesis : It is an open source software used for annotating web pages, PDF's and other online contents collaboratively. This tool allows users to highlight, tag and add comments on what they read online and highlights can be viewed, analized and replied to by others in the group.
 
    4. Linear : It is a tool used for highlighting articles, YouTube, images and PDF's. Your highlights are stored for future use.
 Linear also uses AI to generate answers to questions asked on the web.
