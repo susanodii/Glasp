@@ -148,7 +148,7 @@ Your home page will look like the image below
 
 3.  **Who to follow** suggest people you can follow. You can also search for people to follow on the search bar. When you follow someone, you will be able to see all their highlights and notes.
 
-![](images/recommended.png)
+![](images/who_to_follow.png)
 
 4.  **Following allows** you to see the highlights and notes of people you are following.You can follow people with like minds, this allows you to see all their highlights.
 
