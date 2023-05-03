@@ -83,7 +83,7 @@ Below are steps on how to install Glasp on your browser:
 
 After clicking on the icon, Glasp extention will appear on your browser tool bar for easy access.
 
-![](images/glasp_icon.png)
+![](images/pin_icon2.png)
 
 ### HOW TO HIGHLIGHT TEXT ON WEB PAGES USING GLASP
 
